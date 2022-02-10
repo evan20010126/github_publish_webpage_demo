@@ -1,3 +1,12 @@
+# Example for publish webpage by github
+
+## Step
+1. Github上建立一個新的Repository (需設定為public才可免費publish)
+2. 在Setting頁面左側選單點選Pages選項，點選Choose Theme
+3. 選擇預設的靜態頁面主題，最後點選Commit changes
+4. 在Setting -> Pages頁面，有網站的基底網址
+5. "基底網址/網頁路徑" 即為網頁網址
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/evan20010126/github_publish_webpage_demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
